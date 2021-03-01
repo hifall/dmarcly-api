@@ -1,6 +1,6 @@
 This page lists a few noteable resources on email authentication with DMARC, DKIM, and SPF.
 
-| `DMARCLY Home<https://dmarcly.com>`_
+| `DMARCLY Home <https://dmarcly.com>`_
 | `Safe SPF <https://dmarcly.com/safe-spf>`_
 
 | Blog posts
@@ -17,4 +17,6 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `DKIM record checker <https://dmarcly.com/tools/dkim-record-checker>`_
 | `DMARC record generator <https://dmarcly.com/tools/dmarc-generator>`_
 | `DMARC record checker <https://dmarcly.com/tools/dmarc-checker>`_
+| `BIMI record generator <https://dmarcly.com/tools/bimi-record-generator>`_
+| `BIMI record checker <https://dmarcly.com/tools/bimi-record-checker>`_
 
