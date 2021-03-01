@@ -1,6 +1,6 @@
 This page lists a few noteable resources on email authentication with DMARC, DKIM, and SPF.
 
-`DMARCLY <https://dmarcly.com>`_ <br/>
+`DMARCLY <https://dmarcly.com>`_ <br>
 `Safe SPF <https://dmarcly.com/safe-spf>`_ |br|
 `Can I Have Multiple SPF Records on My Domain? <https://dmarcly.com/blog/can-i-have-multiple-spf-records-on-my-domain>`_ |br|
 `How SPF Works With Subdomains? <https://dmarcly.com/blog/how-spf-works-with-subdomains>`_ |br|
