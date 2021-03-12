@@ -9,6 +9,9 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `SPF PermError: Too Many DNS Lookups - When SPF Record Exceeds 10-DNS-Lookup Limit <https://dmarcly.com/blog/spf-permerror-too-many-dns-lookups-when-spf-record-exceeds-10-dns-lookup-limit>`_
 | `Why SPF Authentication Fails: none, neutral, fail(hard fail), soft fail, temperror, and permerror Explained <https://dmarcly.com/blog/why-spf-authentication-fails-none-neutral-fail-hard-fail-soft-fail-temperror-and-permerror-explained>`_
 | `What Is Automatic/Dynamic SPF Record Flattening and How It Fixes the SPF PermError: Too Many DNS Lookups Issue <https://dmarcly.com/blog/what-is-automatic-dynamic-spf-record-flattening-and-how-it-fixes-the-spf-permerror-too-many-dns-lookups-issue>`_
+| `What is An SPF Record and How does It Work: SPF Record Explained <https://dmarcly.com/blog/what-is-an-spf-record-and-how-does-it-work-spf-record-explained>`_
+| `How to fix "No DMARC Record Found" <https://dmarcly.com/blog/how-to-fix-no-dmarc-record-found>`_
+| `How to Implement DMARC/DKIM/SPF to Stop Email Spoofing/Phishing: The Definitive Guide <https://dmarcly.com/blog/how-to-implement-dmarc-dkim-spf-to-stop-email-spoofing-phishing-the-definitive-guide>`_
 
 | Tools
 | `SPF record generator <https://dmarcly.com/tools/spf-record-generator>`_
