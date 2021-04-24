@@ -46,6 +46,7 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `How to Set Up SPF and DKIM for Amazon SES <https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-amazon-ses>`_
 | `How to Set Up SPF and DKIM for Mailchimp <https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-mailchimp>`_
 | `How to Set Up SPF and DKIM for SendGrid <https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-sendgrid>`_
+| `Can I Have Multiple DKIM Records on My Domain? <https://dmarcly.com/blog/can-i-have-multiple-dkim-records-on-my-domain>`_
 | `What Is DKIM Selector and How Does It Work: DKIM Selector Explained <https://dmarcly.com/blog/what-is-dkim-selector-and-how-does-it-work-dkim-selector-explained>`_
 
 | Tools
