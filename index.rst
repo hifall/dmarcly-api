@@ -12,6 +12,8 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `What is An SPF Record and How does It Work: SPF Record Explained <https://dmarcly.com/blog/what-is-an-spf-record-and-how-does-it-work-spf-record-explained>`_
 | `How to Fix SPF Softfail Domain Does Not Designate IP as Permitted Sender <https://dmarcly.com/blog/how-to-fix-spf-softfail-domain-does-not-designate-ip-as-permitted-sender>`_
 | `How to Set Up Sender Policy Framework (SPF): the Complete Guide <https://dmarcly.com/blog/how-to-set-up-sender-policy-framework-spf-the-complete-guide>`_
+| `SPF FAQs (Frequently Asked Questions) <https://dmarcly.com/blog/spf-faqs-frequently-asked-questions>`_
+| `What Can Cause SPF PermError? <https://dmarcly.com/blog/what-can-cause-spf-permerror>`_
 
 | DMARC posts
 | `How to fix "No DMARC Record Found" <https://dmarcly.com/blog/how-to-fix-no-dmarc-record-found>`_
