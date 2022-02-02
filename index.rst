@@ -14,6 +14,11 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `How to Set Up Sender Policy Framework (SPF): the Complete Guide <https://dmarcly.com/blog/how-to-set-up-sender-policy-framework-spf-the-complete-guide>`_
 | `SPF FAQs (Frequently Asked Questions) <https://dmarcly.com/blog/spf-faqs-frequently-asked-questions>`_
 | `What Can Cause SPF PermError? <https://dmarcly.com/blog/what-can-cause-spf-permerror>`_
+| `Introduction to SPF <https://dmarcly.com/blog/introduction-to-spf>`_
+| `How to Add SPF Record in CloudFlare: CloudFlare SPF Setup Guide <https://dmarcly.com/blog/how-to-add-spf-record-in-cloudflare-cloudflare-spf-setup-guide>`_
+| `How to Add SPF Record in Bluehost: Bluehost SPF Setup Guide <https://dmarcly.com/blog/how-to-add-spf-record-in-bluehost-bluehost-spf-setup-guide>`_
+| `How to Add SPF Record in Namecheap: Namecheap SPF Setup Guide <https://dmarcly.com/blog/how-to-add-spf-record-in-namecheap-namecheap-spf-setup-guide>`_
+| `How to Add SPF Record in GoDaddy: GoDaddy SPF Setup Guide <https://dmarcly.com/blog/how-to-add-spf-record-in-godaddy-godaddy-spf-setup-guide>`_
 
 | DMARC posts
 | `How to fix "No DMARC Record Found" <https://dmarcly.com/blog/how-to-fix-no-dmarc-record-found>`_
