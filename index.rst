@@ -46,6 +46,7 @@ This page lists a few noteable resources on email authentication with DMARC, DKI
 | `DMARC Failure Reports (Forensic Reports) Explained. <https://dmarcly.com/blog/dmarc-failure-reports-forensic-reports-explained>`_
 | `Can I Have Multiple DMARC Records on My Domain? <https://dmarcly.com/blog/can-i-have-multiple-dmarc-records-on-my-domain>`_
 | `Can I Set Up DMARC without DKIM? <https://dmarcly.com/blog/can-i-set-up-dmarc-without-dkim>`_
+| `How to Add Multiple Reporting Email Addresses to DMARC Record? <https://dmarcly.com/blog/how-to-add-multiple-reporting-email-addresses-to-dmarc-record>`_
 
 | DKIM posts
 | `DKIM FAQs (Frequently Asked Questions) <https://dmarcly.com/blog/dkim-faqs-frequently-asked-questions>`_
